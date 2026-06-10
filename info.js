@@ -74,7 +74,7 @@ let SECTION_6 = {"title": "Python Classes",
 			  		
 			  }};
 
-let SECTION_7 = {"title": "Hello World",
+let SECTION_7 = {"title": "HTML, CSS, JavaScript",
 			  "date": new Date(2026, 8, 13),
 			  "slides": "",
 			  "handout": "https://web.stanford.edu/class/cs106ax/res/handouts/21-Section-7.pdf",
@@ -82,9 +82,17 @@ let SECTION_7 = {"title": "Hello World",
 			     
 			  }};
 
+let SECTION_8 = {"title": "Client-Side JavaScript",
+			  "date": new Date(2026, 8, 20),
+			  "slides": "",
+			  "handout": "https://web.stanford.edu/class/cs106ax/res/handouts/21-Section-7.pdf",
+			  "resources": {
+			     
+			  }};
+
 /* change this to show which sections are fully visible, and which ones are faded / semi-translucent */
-let ACTIVE_SECTIONS = [SECTION_1, SECTION_2];
-let FUTURE_SECTIONS = [SECTION_3, SECTION_4, SECTION_5, SECTION_6, SECTION_7];
+let ACTIVE_SECTIONS = [SECTION_1, SECTION_2, SECTION_3, SECTION_4];
+let FUTURE_SECTIONS = [SECTION_5, SECTION_6, SECTION_7, SECTION_8];
 
 /* the first paragraph or welcome mat students see when they visit the page! 
    you can embed HTML within this, e.g., links, bolding, your choice!*/

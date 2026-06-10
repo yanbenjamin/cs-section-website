@@ -68,7 +68,7 @@ function add_week(section_number, section_info, faded){
 	if (faded) slidesButton.removeAttribute("href");
 	sectionMainLinks.appendChild(slidesButton);
 
-	let handoutButton = create_button(("handout" in section_info) ? section_info["slides"] : "", "Handout", "blue");
+	let handoutButton = create_button(("handout" in section_info) ? section_info["handout"] : "", "Handout", "blue");
 	if (faded) handoutButton.removeAttribute("href");
 	sectionMainLinks.appendChild(handoutButton);
 
