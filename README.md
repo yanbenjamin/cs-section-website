@@ -1,2 +1,2 @@
-# CS 107 Lab: Computer Organization & Systems
-Website for Ben's lab :)
+# CS Teaching Section Website
+Template for CS198 teaching section websites, e.g., for CS106A/B/AX, other intro CS courses taught with sections such as CS107. Each website repo is equipped with a `section.js` file that a section leader can load their slides links + materials into, and the HTMl file for stylization to create a friendly vibe for students visiting the website :D
