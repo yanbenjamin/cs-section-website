@@ -5,3 +5,12 @@ Template for CS198 teaching section websites, e.g., for CS106A/B/AX, other intro
 ```
 https://stanford.edu/~bbyan/cs106ax/
 ```
+
+If you want to set this up on your own site, i.e. `stanford.edu/~[SUNET]`, you can log into the Myth machines via `ssh [SUNET]@myth.stanford.edu` in the Terminal. In your home directory, there's a built-in `WWW` folder that gets instantly beamed to your Stanford website domain! From there, you can clone the repository as follows:
+
+```
+bbymonster@myth53: cd WWW
+bbymonster@myth53: git clone https://github.com/yanbenjamin/cs-section-website.git cs106ax
+```
+
+thereby creating a subdomain `cs106ax` (or the class that you're TAing that quarter) that students can access yay!
