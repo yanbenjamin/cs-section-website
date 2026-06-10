@@ -14,3 +14,5 @@ bbymonster@myth53: git clone https://github.com/yanbenjamin/cs-section-website.g
 ```
 
 thereby creating a subdomain `cs106ax` (or the class that you're TAing that quarter) that students can access yay!
+
+<img width="540" height="370" alt="image" src="https://github.com/user-attachments/assets/21a3d8cd-3ebd-4795-8e54-b6e38235bf95" />
