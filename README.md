@@ -1,2 +1,7 @@
 # CS Teaching: The Section Website
 Template for CS198 teaching section websites, e.g., for CS106A/B/AX, other intro CS courses taught with sections such as CS107. Each website repo is equipped with a `section.js` file that a section leader can load their slides links + materials into, and the HTMl file for stylization to create a friendly vibe for students visiting the website :D
+
+🌱 The first website deployed with this template is currently up at:
+```
+https://stanford.edu/~bbyan/cs106ax/
+```
